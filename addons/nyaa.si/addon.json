@@ -1,0 +1,20 @@
+{
+  "author": "Ares Chen",
+  "website": "https://github.com/ares30841167/qnap-download-station-addon",
+  "name": "Nyaa",
+  "addon": "nyaa.si.php",
+  "class": "nyaa",
+  "hosts": [
+    "nyaa.si"
+  ],
+  "domain": "nyaa.si",
+  "version": 100,
+  "interface": [
+    "ISearch"
+  ],   
+  "qpkg_dependencies": {"DownloadStation": "5.8.3"},
+  "description": { 
+    "ENG": "Nyaa is a BitTorrent website focused on East Asian (Japanese, Chinese, and Korean) media.",
+    "TCH": "Nyaa是一個側重於東亞（中國、日本及韓國）多媒體資源的BitTorrent站點。"
+  }
+}
