@@ -2,7 +2,7 @@
 An unofficial QNAP Download Station add-on repository to add the add-on function support for other torrent providers.
 
 ## Torrent providers I currently implemented:
-* nyaa.si
+* nyaa.si - Support Download Station 5.8.3
 
 ## Installation
 1. Download the installation file from [relases page](https://github.com/ares30841167/qnap-download-station-addon/releases)
